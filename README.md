@@ -33,6 +33,7 @@ A terminal-based GUI tool for performing passive and active reconnaissance on a 
 ## ⚙️ Usage
 
 ./guiActivePassiveRecon.sh
+
 Follow on-screen prompts to perform active/passive recon
 
 ---
