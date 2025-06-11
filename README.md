@@ -30,17 +30,6 @@ A terminal-based GUI tool for performing passive and active reconnaissance on a 
 
 ---
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourname/BashReconGUI.git
-cd BashReconGUI
-chmod +x guiActivePassiveRecon.sh
-
----
-
 **## Usage**
 
 ./guiActivePassiveRecon.sh
@@ -59,3 +48,15 @@ guiActivePassiveRecon_scan_results/
 Any tools which are exited mid-scan are still saved, but will appear as:
         ├── whois_output_skipped.txt
         ├── nmap_scan_skipped.txt 
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourname/BashReconGUI.git
+cd BashReconGUI
+chmod +x guiActivePassiveRecon.sh
+
