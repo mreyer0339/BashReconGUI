@@ -30,14 +30,14 @@ A terminal-based GUI tool for performing passive and active reconnaissance on a 
 
 ---
 
-**## Usage**
+## ⚙️ Usage
 
 ./guiActivePassiveRecon.sh
 Follow on-screen prompts to perform active/passive recon
 
 ---
 
-**## Output**
+## 📂  Output
 
 guiActivePassiveRecon_scan_results/
   └── 2025-06-11_14-05-32/
