@@ -41,14 +41,16 @@ Follow on-screen prompts to perform active/passive recon
 ## 📂  Output
 
 guiActivePassiveRecon_scan_results/
+
   └── 2025-06-11_14-05-32/
+  
         ├── whois_output.txt
+        
         ├── nmap_scan.txt
+        
         └── ...
 
-Any tools which are exited mid-scan are still saved, but will appear as:
-        ├── whois_output_skipped.txt
-        ├── nmap_scan_skipped.txt 
+Any tools which are exited mid-scan are still saved, but will appear as: tool_skipped.txt
 
 ---
 
